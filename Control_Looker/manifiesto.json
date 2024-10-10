@@ -1,0 +1,20 @@
+{
+  "visualization": {
+    "id": "custom_word_cloud",
+    "label": "Custom Word Cloud",
+    "description": "A word cloud visualization",
+    "iconUrl": "https://storage.googleapis.com/soporteproactivo_gus/Control_Looker/icon.png",
+    "js": "https://storage.googleapis.com/soporteproactivo_gus/Control_Looker/main.js",
+    "css": "https://storage.googleapis.com/soporteproactivo_gus/Control_Looker/styles.css",
+    "resources": {
+      "js": [
+        "https://storage.googleapis.com/soporteproactivo_gus/Control_Looker/main.js"
+      ],
+      "css": [
+        "https://storage.googleapis.com/soporteproactivo_gus/Control_Looker/styles.css"
+      ]
+    }
+  }
+}
+
+  
